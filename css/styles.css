@@ -1,0 +1,29 @@
+h1 {
+  color: blue;
+  text-align: center;
+  font-size: 30px;
+  text-transform: uppercase;
+}
+h2 {
+  color: #581845;
+  font-style: italic;
+  font-weight: normal;
+  text-align: center;
+}
+p {
+  font-family: sans-serif;
+}
+ol {
+  line-height: 40px;
+}
+body{
+  background-color: #f4f4f4;
+  font-family: ubuntu;
+}
+strong {
+  font-style: italic;
+  font-weight: normal;
+}
+em {
+  font-style: normal;
+}
